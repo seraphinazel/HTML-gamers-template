@@ -1,0 +1,51 @@
+.header {
+	background-color: rgba(0, 0, 0, 0.7);
+	margin-top: 13px;
+}
+
+div.menu {
+	border-bottom: 1px solid #000;
+}
+
+a.menu_link {
+	color: #8c8c8c;
+}
+
+li.menu:hover a,
+.link_active a {
+	color: #000;
+}
+
+li.menu:hover,
+.link_active {
+	border-bottom: 3px solid #000;
+}
+
+div.map{
+	width: 970px;
+}
+
+.big_buy_button {
+	width: 265px;
+	height: 62px;
+	font-size: 30px;
+	background-color: #f44336;
+	cursor: pointer;
+}
+
+.big_buy_button:hover {
+	border: 1px solid #000000;
+}
+
+.big_buy_button:active {
+	background-color: #ff0018;
+}
+
+p.footer {
+	padding: 28px 744px;
+	font-family: "Roboto Condensed";
+}
+
+p.footer span {
+	color: #f44336;
+}

@@ -1,0 +1,122 @@
+.our_gallery {
+	height: 1350px;
+	padding-top: 175px;
+}
+
+h3.gallery {
+	margin-bottom: 106px;
+}
+
+.gallery_header {
+	line-height: 20px;
+}
+
+div.gallery_block {
+	background-color: #fff;
+	margin: 0;
+	margin-right: 28px;
+	margin-bottom: 100px;
+}
+
+div.gallery_block:nth-child(5n) {
+	margin-right: 0px;
+}
+
+.gallery_show_more {
+	width: 206px;
+	height: 36px;
+	margin: 0 auto;
+	margin-top: -38px;
+	border: 1px solid #000;
+}
+
+.gallery_show_more a {
+	line-height: 36px;
+	padding: 9px 35px;
+	color: #000000;
+	font-size: 17px;
+	font-weight: 400;
+	text-decoration: none;
+}
+
+.gallery_show_more:hover {
+	background-color: #8c8c8c;
+	border: 1px solid lightgrey;
+}
+
+.gallery_show_more:hover a {
+	color: #fff;
+}
+
+div.discount {
+	height: 562px;
+	margin: 174px 0 70px 0;
+}
+
+.discount_block {
+	width: 960px;
+	float: left;
+}
+
+p.discount {
+	color: #010101;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 18px;
+	text-transform: uppercase;
+}
+
+.discount_text h3 {
+	color: #f44336;
+	font-size: 36px;
+	font-weight: 500;
+	line-height: 36px;
+	padding-top: 8px;
+}
+
+.discount_text {
+	height: 409px;
+	display: table-cell;
+	vertical-align: bottom;
+    padding-left: 115px;
+    padding-bottom: 153px;
+}
+
+p.price {
+	font-weight: 300;
+	color: #000000;
+	font-size: 62px;
+	line-height: 62px;
+	padding-bottom: 5px;
+    padding-top: 15px;
+}
+
+p.price>span {
+	color: #8c8c8c;
+	font-size: 36px;
+	text-decoration: line-through;
+}
+
+.dis_img1 {
+	background: url(../img/duty.jpg) center center no-repeat;
+}
+
+.dis_img2 {
+	background: url(../img/honor.jpg) center center no-repeat;
+}
+
+.submit_button {
+	margin-bottom: 167px;
+}
+
+div.map{
+	margin-bottom: 174px;
+}
+
+h3.map {
+    padding-bottom: 104px;
+}
+
+div.up_button {
+	bottom: 1275px;
+}

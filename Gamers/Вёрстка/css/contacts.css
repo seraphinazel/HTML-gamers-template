@@ -1,0 +1,21 @@
+div.contact {
+	padding: 0 474.5px;
+	height: 660px;
+	background-color: #e8e8e8;
+}
+
+h3.contact {
+    padding-bottom: 97px;
+}
+
+textarea.message {
+    height: 135px;
+}
+
+.contact_text {
+    color: #000;
+}
+
+div.map {
+    padding-top: 100px;
+}
